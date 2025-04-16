@@ -9,5 +9,5 @@
 
 3.Parsed and formatted dates
 
-4.Cleaned numeric fields (e.g., percentages, monetary values)
+4.Cleaned numeric fields
 
