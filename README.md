@@ -3,11 +3,11 @@
 #### DBMS used: MySQL Workbench
 
 #### Key Cleaning Steps performed:
-Removed duplicate records
+1.Removed duplicate records
 
-Handled NULLs and inconsistent values 
+2.Handled NULLs and inconsistent values 
 
-Parsed and formatted dates
+3.Parsed and formatted dates
 
-Cleaned numeric fields (e.g., percentages, monetary values)
+4.Cleaned numeric fields (e.g., percentages, monetary values)
 
